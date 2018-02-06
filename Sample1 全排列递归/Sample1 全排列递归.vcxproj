@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{1EDBA2F6-5AFD-49CD-B158-CA3A72E8F908}</ProjectGuid>
+    <ProjectGuid>{F8DB07D3-1051-4D7F-8940-8EC5631C5FB1}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My1002ABforPolynomials</RootNamespace>
+    <RootNamespace>Sample1全排列递归</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -147,7 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1002. A+B for Polynomials.cpp" />
+    <ClCompile Include="Sample1 全排列递归.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

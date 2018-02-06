@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1001. A+B Format", "1001. A+B Format\1001. A+B Format.vcxproj", "{2A7B8995-428E-406B-8618-DC39DF28C226}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1002. A+B for Polynomials", "1002. A+B for Polynomials\1002. A+B for Polynomials.vcxproj", "{1EDBA2F6-5AFD-49CD-B158-CA3A72E8F908}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1001. A+B Format version2", "1001. A+B Format version2\1001. A+B Format version2.vcxproj", "{F23EFB49-B3DC-491C-BE29-294346A6F313}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1025. PAT Ranking", "1025. PAT Ranking\1025. PAT Ranking.vcxproj", "{C1299544-D9B8-41F5-BCE6-5B5FFD93666E}"
@@ -20,6 +18,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1036. Boys vs Girls", "1036. Boys vs Girls\1036. Boys vs Girls.vcxproj", "{8F045E4F-416E-4A7C-AD3F-42BF021E9D31}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1075. PAT Judge", "1075. PAT Judge\1075. PAT Judge.vcxproj", "{E81C4786-FB3E-4DFB-B633-35E47B75BD17}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sample1 全排列递归", "Sample1 全排列递归\Sample1 全排列递归.vcxproj", "{F8DB07D3-1051-4D7F-8940-8EC5631C5FB1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,14 +37,6 @@ Global
 		{2A7B8995-428E-406B-8618-DC39DF28C226}.Release|x64.Build.0 = Release|x64
 		{2A7B8995-428E-406B-8618-DC39DF28C226}.Release|x86.ActiveCfg = Release|Win32
 		{2A7B8995-428E-406B-8618-DC39DF28C226}.Release|x86.Build.0 = Release|Win32
-		{1EDBA2F6-5AFD-49CD-B158-CA3A72E8F908}.Debug|x64.ActiveCfg = Debug|x64
-		{1EDBA2F6-5AFD-49CD-B158-CA3A72E8F908}.Debug|x64.Build.0 = Debug|x64
-		{1EDBA2F6-5AFD-49CD-B158-CA3A72E8F908}.Debug|x86.ActiveCfg = Debug|Win32
-		{1EDBA2F6-5AFD-49CD-B158-CA3A72E8F908}.Debug|x86.Build.0 = Debug|Win32
-		{1EDBA2F6-5AFD-49CD-B158-CA3A72E8F908}.Release|x64.ActiveCfg = Release|x64
-		{1EDBA2F6-5AFD-49CD-B158-CA3A72E8F908}.Release|x64.Build.0 = Release|x64
-		{1EDBA2F6-5AFD-49CD-B158-CA3A72E8F908}.Release|x86.ActiveCfg = Release|Win32
-		{1EDBA2F6-5AFD-49CD-B158-CA3A72E8F908}.Release|x86.Build.0 = Release|Win32
 		{F23EFB49-B3DC-491C-BE29-294346A6F313}.Debug|x64.ActiveCfg = Debug|x64
 		{F23EFB49-B3DC-491C-BE29-294346A6F313}.Debug|x64.Build.0 = Debug|x64
 		{F23EFB49-B3DC-491C-BE29-294346A6F313}.Debug|x86.ActiveCfg = Debug|Win32
@@ -101,6 +93,14 @@ Global
 		{E81C4786-FB3E-4DFB-B633-35E47B75BD17}.Release|x64.Build.0 = Release|x64
 		{E81C4786-FB3E-4DFB-B633-35E47B75BD17}.Release|x86.ActiveCfg = Release|Win32
 		{E81C4786-FB3E-4DFB-B633-35E47B75BD17}.Release|x86.Build.0 = Release|Win32
+		{F8DB07D3-1051-4D7F-8940-8EC5631C5FB1}.Debug|x64.ActiveCfg = Debug|x64
+		{F8DB07D3-1051-4D7F-8940-8EC5631C5FB1}.Debug|x64.Build.0 = Debug|x64
+		{F8DB07D3-1051-4D7F-8940-8EC5631C5FB1}.Debug|x86.ActiveCfg = Debug|Win32
+		{F8DB07D3-1051-4D7F-8940-8EC5631C5FB1}.Debug|x86.Build.0 = Debug|Win32
+		{F8DB07D3-1051-4D7F-8940-8EC5631C5FB1}.Release|x64.ActiveCfg = Release|x64
+		{F8DB07D3-1051-4D7F-8940-8EC5631C5FB1}.Release|x64.Build.0 = Release|x64
+		{F8DB07D3-1051-4D7F-8940-8EC5631C5FB1}.Release|x86.ActiveCfg = Release|Win32
+		{F8DB07D3-1051-4D7F-8940-8EC5631C5FB1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
