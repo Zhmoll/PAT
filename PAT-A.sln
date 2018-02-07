@@ -22,6 +22,7 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sample1 全排列递归", "Sample1 全排列递归\Sample1 全排列递归.vcxproj", "{F8DB07D3-1051-4D7F-8940-8EC5631C5FB1}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1060. Are They Equal", "1060. Are They Equal\1060. Are They Equal.vcxproj", "{5E4B3CFD-21F8-4037-8F62-9E64B027C500}"
+EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1002. A+B for Polynomials", "1002. A+B for Polynomials\1002. A+B for Polynomials.vcxproj", "{CDF92614-F93E-4D4A-BE10-A1999E24D63D}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1012. The Best Rank", "1012. The Best Rank\1012. The Best Rank.vcxproj", "{7558CB7E-0006-4875-9AD5-3B1AB5DAC29E}"
