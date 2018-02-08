@@ -43,6 +43,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1007. Maximum Subsequence S
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1051. Pop Sequence", "1051. Pop Sequence\1051. Pop Sequence.vcxproj", "{D76BBF52-E7EE-4994-AEBD-DB5E992FF706}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1055. The World's Richest", "1055. The World's Richest\1055. The World's Richest.vcxproj", "{CC45239E-95F7-4B06-B239-39DCAB2B8B03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -211,6 +213,14 @@ Global
 		{D76BBF52-E7EE-4994-AEBD-DB5E992FF706}.Release|x64.Build.0 = Release|x64
 		{D76BBF52-E7EE-4994-AEBD-DB5E992FF706}.Release|x86.ActiveCfg = Release|Win32
 		{D76BBF52-E7EE-4994-AEBD-DB5E992FF706}.Release|x86.Build.0 = Release|Win32
+		{CC45239E-95F7-4B06-B239-39DCAB2B8B03}.Debug|x64.ActiveCfg = Debug|x64
+		{CC45239E-95F7-4B06-B239-39DCAB2B8B03}.Debug|x64.Build.0 = Debug|x64
+		{CC45239E-95F7-4B06-B239-39DCAB2B8B03}.Debug|x86.ActiveCfg = Debug|Win32
+		{CC45239E-95F7-4B06-B239-39DCAB2B8B03}.Debug|x86.Build.0 = Debug|Win32
+		{CC45239E-95F7-4B06-B239-39DCAB2B8B03}.Release|x64.ActiveCfg = Release|x64
+		{CC45239E-95F7-4B06-B239-39DCAB2B8B03}.Release|x64.Build.0 = Release|x64
+		{CC45239E-95F7-4B06-B239-39DCAB2B8B03}.Release|x86.ActiveCfg = Release|Win32
+		{CC45239E-95F7-4B06-B239-39DCAB2B8B03}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
