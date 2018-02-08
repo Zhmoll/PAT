@@ -33,6 +33,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1009. Product of Polynomial
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1011. World Cup Betting", "1011. World Cup Betting\1011. World Cup Betting.vcxproj", "{4BE37239-DE3B-4302-BCBB-7978B74F4071}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1128. N Queens Puzzle", "1128. N Queens Puzzle\1128. N Queens Puzzle.vcxproj", "{BFFB7330-1EBC-41F9-A6F0-87363BABB7EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -161,6 +163,14 @@ Global
 		{4BE37239-DE3B-4302-BCBB-7978B74F4071}.Release|x64.Build.0 = Release|x64
 		{4BE37239-DE3B-4302-BCBB-7978B74F4071}.Release|x86.ActiveCfg = Release|Win32
 		{4BE37239-DE3B-4302-BCBB-7978B74F4071}.Release|x86.Build.0 = Release|Win32
+		{BFFB7330-1EBC-41F9-A6F0-87363BABB7EF}.Debug|x64.ActiveCfg = Debug|x64
+		{BFFB7330-1EBC-41F9-A6F0-87363BABB7EF}.Debug|x64.Build.0 = Debug|x64
+		{BFFB7330-1EBC-41F9-A6F0-87363BABB7EF}.Debug|x86.ActiveCfg = Debug|Win32
+		{BFFB7330-1EBC-41F9-A6F0-87363BABB7EF}.Debug|x86.Build.0 = Debug|Win32
+		{BFFB7330-1EBC-41F9-A6F0-87363BABB7EF}.Release|x64.ActiveCfg = Release|x64
+		{BFFB7330-1EBC-41F9-A6F0-87363BABB7EF}.Release|x64.Build.0 = Release|x64
+		{BFFB7330-1EBC-41F9-A6F0-87363BABB7EF}.Release|x86.ActiveCfg = Release|Win32
+		{BFFB7330-1EBC-41F9-A6F0-87363BABB7EF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
