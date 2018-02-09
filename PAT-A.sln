@@ -49,6 +49,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1055. The World's Richest",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1069. The Black Hole of Numbers", "1069. The Black Hole of Numbers\1069. The Black Hole of Numbers.vcxproj", "{35B8002E-271A-48C0-B98C-3C9D5D4BA258}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1059. Prime Factors", "1059. Prime Factors\1059. Prime Factors.vcxproj", "{2D75E348-4BC7-4FF5-B3FE-C3178AF3D555}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -241,6 +243,14 @@ Global
 		{35B8002E-271A-48C0-B98C-3C9D5D4BA258}.Release|x64.Build.0 = Release|x64
 		{35B8002E-271A-48C0-B98C-3C9D5D4BA258}.Release|x86.ActiveCfg = Release|Win32
 		{35B8002E-271A-48C0-B98C-3C9D5D4BA258}.Release|x86.Build.0 = Release|Win32
+		{2D75E348-4BC7-4FF5-B3FE-C3178AF3D555}.Debug|x64.ActiveCfg = Debug|x64
+		{2D75E348-4BC7-4FF5-B3FE-C3178AF3D555}.Debug|x64.Build.0 = Debug|x64
+		{2D75E348-4BC7-4FF5-B3FE-C3178AF3D555}.Debug|x86.ActiveCfg = Debug|Win32
+		{2D75E348-4BC7-4FF5-B3FE-C3178AF3D555}.Debug|x86.Build.0 = Debug|Win32
+		{2D75E348-4BC7-4FF5-B3FE-C3178AF3D555}.Release|x64.ActiveCfg = Release|x64
+		{2D75E348-4BC7-4FF5-B3FE-C3178AF3D555}.Release|x64.Build.0 = Release|x64
+		{2D75E348-4BC7-4FF5-B3FE-C3178AF3D555}.Release|x86.ActiveCfg = Release|Win32
+		{2D75E348-4BC7-4FF5-B3FE-C3178AF3D555}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
