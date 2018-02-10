@@ -65,6 +65,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1124. Raffle for Weibo Foll
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1104. Sum of Number Segments", "1104. Sum of Number Segments\1104. Sum of Number Segments.vcxproj", "{19CAA591-4134-462C-9BFE-28ED106AEA3F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1108. Finding Average", "1108. Finding Average\1108. Finding Average.vcxproj", "{E06FCB51-C42C-47E8-B398-05CE3C5C1173}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -321,6 +323,14 @@ Global
 		{19CAA591-4134-462C-9BFE-28ED106AEA3F}.Release|x64.Build.0 = Release|x64
 		{19CAA591-4134-462C-9BFE-28ED106AEA3F}.Release|x86.ActiveCfg = Release|Win32
 		{19CAA591-4134-462C-9BFE-28ED106AEA3F}.Release|x86.Build.0 = Release|Win32
+		{E06FCB51-C42C-47E8-B398-05CE3C5C1173}.Debug|x64.ActiveCfg = Debug|x64
+		{E06FCB51-C42C-47E8-B398-05CE3C5C1173}.Debug|x64.Build.0 = Debug|x64
+		{E06FCB51-C42C-47E8-B398-05CE3C5C1173}.Debug|x86.ActiveCfg = Debug|Win32
+		{E06FCB51-C42C-47E8-B398-05CE3C5C1173}.Debug|x86.Build.0 = Debug|Win32
+		{E06FCB51-C42C-47E8-B398-05CE3C5C1173}.Release|x64.ActiveCfg = Release|x64
+		{E06FCB51-C42C-47E8-B398-05CE3C5C1173}.Release|x64.Build.0 = Release|x64
+		{E06FCB51-C42C-47E8-B398-05CE3C5C1173}.Release|x86.ActiveCfg = Release|Win32
+		{E06FCB51-C42C-47E8-B398-05CE3C5C1173}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
