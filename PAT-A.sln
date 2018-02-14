@@ -93,6 +93,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1083. List Grades", "1083. 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1097. Deduplication on a Linked List", "1097. Deduplication on a Linked List\1097. Deduplication on a Linked List.vcxproj", "{3C819DEA-AB5E-4594-A6C4-17EE18808015}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1086. Tree Traversals Again", "1086. Tree Traversals Again\1086. Tree Traversals Again.vcxproj", "{33343D0A-6BAE-4A81-926A-0F345654E3E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -461,6 +463,14 @@ Global
 		{3C819DEA-AB5E-4594-A6C4-17EE18808015}.Release|x64.Build.0 = Release|x64
 		{3C819DEA-AB5E-4594-A6C4-17EE18808015}.Release|x86.ActiveCfg = Release|Win32
 		{3C819DEA-AB5E-4594-A6C4-17EE18808015}.Release|x86.Build.0 = Release|Win32
+		{33343D0A-6BAE-4A81-926A-0F345654E3E9}.Debug|x64.ActiveCfg = Debug|x64
+		{33343D0A-6BAE-4A81-926A-0F345654E3E9}.Debug|x64.Build.0 = Debug|x64
+		{33343D0A-6BAE-4A81-926A-0F345654E3E9}.Debug|x86.ActiveCfg = Debug|Win32
+		{33343D0A-6BAE-4A81-926A-0F345654E3E9}.Debug|x86.Build.0 = Debug|Win32
+		{33343D0A-6BAE-4A81-926A-0F345654E3E9}.Release|x64.ActiveCfg = Release|x64
+		{33343D0A-6BAE-4A81-926A-0F345654E3E9}.Release|x64.Build.0 = Release|x64
+		{33343D0A-6BAE-4A81-926A-0F345654E3E9}.Release|x86.ActiveCfg = Release|Win32
+		{33343D0A-6BAE-4A81-926A-0F345654E3E9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
