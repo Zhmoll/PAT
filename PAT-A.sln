@@ -105,6 +105,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1130. Infix Expression", "1
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1102. Invert a Binary Tree", "1102. Invert a Binary Tree\1102. Invert a Binary Tree.vcxproj", "{68D77597-ED19-4997-82E3-3158E643B7F6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1020. Tree Traversals", "1020. Tree Traversals\1020. Tree Traversals.vcxproj", "{29B0FAEC-EF28-49A2-928E-6D7239FC3808}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -521,6 +523,14 @@ Global
 		{68D77597-ED19-4997-82E3-3158E643B7F6}.Release|x64.Build.0 = Release|x64
 		{68D77597-ED19-4997-82E3-3158E643B7F6}.Release|x86.ActiveCfg = Release|Win32
 		{68D77597-ED19-4997-82E3-3158E643B7F6}.Release|x86.Build.0 = Release|Win32
+		{29B0FAEC-EF28-49A2-928E-6D7239FC3808}.Debug|x64.ActiveCfg = Debug|x64
+		{29B0FAEC-EF28-49A2-928E-6D7239FC3808}.Debug|x64.Build.0 = Debug|x64
+		{29B0FAEC-EF28-49A2-928E-6D7239FC3808}.Debug|x86.ActiveCfg = Debug|Win32
+		{29B0FAEC-EF28-49A2-928E-6D7239FC3808}.Debug|x86.Build.0 = Debug|Win32
+		{29B0FAEC-EF28-49A2-928E-6D7239FC3808}.Release|x64.ActiveCfg = Release|x64
+		{29B0FAEC-EF28-49A2-928E-6D7239FC3808}.Release|x64.Build.0 = Release|x64
+		{29B0FAEC-EF28-49A2-928E-6D7239FC3808}.Release|x86.ActiveCfg = Release|Win32
+		{29B0FAEC-EF28-49A2-928E-6D7239FC3808}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
