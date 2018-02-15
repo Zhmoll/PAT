@@ -113,6 +113,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1053. Path of Equal Weight"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1004. Counting Leaves", "1004. Counting Leaves\1004. Counting Leaves.vcxproj", "{1FEE5277-0777-49E9-99F2-A566CABBF2B3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1016. Phone Bills", "1016. Phone Bills\1016. Phone Bills.vcxproj", "{75158FD3-0EE2-4D0F-9D44-2644DA5F6124}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -561,6 +563,14 @@ Global
 		{1FEE5277-0777-49E9-99F2-A566CABBF2B3}.Release|x64.Build.0 = Release|x64
 		{1FEE5277-0777-49E9-99F2-A566CABBF2B3}.Release|x86.ActiveCfg = Release|Win32
 		{1FEE5277-0777-49E9-99F2-A566CABBF2B3}.Release|x86.Build.0 = Release|Win32
+		{75158FD3-0EE2-4D0F-9D44-2644DA5F6124}.Debug|x64.ActiveCfg = Debug|x64
+		{75158FD3-0EE2-4D0F-9D44-2644DA5F6124}.Debug|x64.Build.0 = Debug|x64
+		{75158FD3-0EE2-4D0F-9D44-2644DA5F6124}.Debug|x86.ActiveCfg = Debug|Win32
+		{75158FD3-0EE2-4D0F-9D44-2644DA5F6124}.Debug|x86.Build.0 = Debug|Win32
+		{75158FD3-0EE2-4D0F-9D44-2644DA5F6124}.Release|x64.ActiveCfg = Release|x64
+		{75158FD3-0EE2-4D0F-9D44-2644DA5F6124}.Release|x64.Build.0 = Release|x64
+		{75158FD3-0EE2-4D0F-9D44-2644DA5F6124}.Release|x86.ActiveCfg = Release|Win32
+		{75158FD3-0EE2-4D0F-9D44-2644DA5F6124}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
