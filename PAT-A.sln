@@ -127,6 +127,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1027. Colors in Mars", "102
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1039. Course List for Student", "1039. Course List for Student\1039. Course List for Student.vcxproj", "{B7D55973-950C-43A1-8382-3AF1269A8921}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1057. Stack", "1057. Stack\1057. Stack.vcxproj", "{5A184343-4B97-44E8-81EB-6BE755AD2995}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -631,6 +633,14 @@ Global
 		{B7D55973-950C-43A1-8382-3AF1269A8921}.Release|x64.Build.0 = Release|x64
 		{B7D55973-950C-43A1-8382-3AF1269A8921}.Release|x86.ActiveCfg = Release|Win32
 		{B7D55973-950C-43A1-8382-3AF1269A8921}.Release|x86.Build.0 = Release|Win32
+		{5A184343-4B97-44E8-81EB-6BE755AD2995}.Debug|x64.ActiveCfg = Debug|x64
+		{5A184343-4B97-44E8-81EB-6BE755AD2995}.Debug|x64.Build.0 = Debug|x64
+		{5A184343-4B97-44E8-81EB-6BE755AD2995}.Debug|x86.ActiveCfg = Debug|Win32
+		{5A184343-4B97-44E8-81EB-6BE755AD2995}.Debug|x86.Build.0 = Debug|Win32
+		{5A184343-4B97-44E8-81EB-6BE755AD2995}.Release|x64.ActiveCfg = Release|x64
+		{5A184343-4B97-44E8-81EB-6BE755AD2995}.Release|x64.Build.0 = Release|x64
+		{5A184343-4B97-44E8-81EB-6BE755AD2995}.Release|x86.ActiveCfg = Release|Win32
+		{5A184343-4B97-44E8-81EB-6BE755AD2995}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
