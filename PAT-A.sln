@@ -115,6 +115,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1004. Counting Leaves", "10
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1043. Is It a Binary Search Tree", "1043. Is It a Binary Search Tree\1043. Is It a Binary Search Tree.vcxproj", "{CCA12198-7B94-45B6-8541-A116DC51CDEE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1015. Reversible Primes", "1015. Reversible Primes\1015. Reversible Primes.vcxproj", "{2A402765-6CF8-4BE8-BAFE-E79027B5DC81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -571,6 +573,14 @@ Global
 		{CCA12198-7B94-45B6-8541-A116DC51CDEE}.Release|x64.Build.0 = Release|x64
 		{CCA12198-7B94-45B6-8541-A116DC51CDEE}.Release|x86.ActiveCfg = Release|Win32
 		{CCA12198-7B94-45B6-8541-A116DC51CDEE}.Release|x86.Build.0 = Release|Win32
+		{2A402765-6CF8-4BE8-BAFE-E79027B5DC81}.Debug|x64.ActiveCfg = Debug|x64
+		{2A402765-6CF8-4BE8-BAFE-E79027B5DC81}.Debug|x64.Build.0 = Debug|x64
+		{2A402765-6CF8-4BE8-BAFE-E79027B5DC81}.Debug|x86.ActiveCfg = Debug|Win32
+		{2A402765-6CF8-4BE8-BAFE-E79027B5DC81}.Debug|x86.Build.0 = Debug|Win32
+		{2A402765-6CF8-4BE8-BAFE-E79027B5DC81}.Release|x64.ActiveCfg = Release|x64
+		{2A402765-6CF8-4BE8-BAFE-E79027B5DC81}.Release|x64.Build.0 = Release|x64
+		{2A402765-6CF8-4BE8-BAFE-E79027B5DC81}.Release|x86.ActiveCfg = Release|Win32
+		{2A402765-6CF8-4BE8-BAFE-E79027B5DC81}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
