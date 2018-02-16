@@ -119,6 +119,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1015. Reversible Primes", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1035. Password", "1035. Password\1035. Password.vcxproj", "{922AFD22-0F9E-4F96-AED1-7811C9732DB0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1031. Hello World for U", "1031. Hello World for U\1031. Hello World for U.vcxproj", "{5772FDD3-06C9-42BA-8E2A-AF0DDED14167}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -591,6 +593,14 @@ Global
 		{922AFD22-0F9E-4F96-AED1-7811C9732DB0}.Release|x64.Build.0 = Release|x64
 		{922AFD22-0F9E-4F96-AED1-7811C9732DB0}.Release|x86.ActiveCfg = Release|Win32
 		{922AFD22-0F9E-4F96-AED1-7811C9732DB0}.Release|x86.Build.0 = Release|Win32
+		{5772FDD3-06C9-42BA-8E2A-AF0DDED14167}.Debug|x64.ActiveCfg = Debug|x64
+		{5772FDD3-06C9-42BA-8E2A-AF0DDED14167}.Debug|x64.Build.0 = Debug|x64
+		{5772FDD3-06C9-42BA-8E2A-AF0DDED14167}.Debug|x86.ActiveCfg = Debug|Win32
+		{5772FDD3-06C9-42BA-8E2A-AF0DDED14167}.Debug|x86.Build.0 = Debug|Win32
+		{5772FDD3-06C9-42BA-8E2A-AF0DDED14167}.Release|x64.ActiveCfg = Release|x64
+		{5772FDD3-06C9-42BA-8E2A-AF0DDED14167}.Release|x64.Build.0 = Release|x64
+		{5772FDD3-06C9-42BA-8E2A-AF0DDED14167}.Release|x86.ActiveCfg = Release|Win32
+		{5772FDD3-06C9-42BA-8E2A-AF0DDED14167}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
