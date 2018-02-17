@@ -135,6 +135,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1137. Final Grading", "1137
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1107. Social Clusters", "1107. Social Clusters\1107. Social Clusters.vcxproj", "{714117DE-A53C-483C-9E9D-E6FB326F4F59}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1114. Family Property", "1114. Family Property\1114. Family Property.vcxproj", "{3EB0C899-28BA-413B-8108-EA2218921DFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -671,6 +673,14 @@ Global
 		{714117DE-A53C-483C-9E9D-E6FB326F4F59}.Release|x64.Build.0 = Release|x64
 		{714117DE-A53C-483C-9E9D-E6FB326F4F59}.Release|x86.ActiveCfg = Release|Win32
 		{714117DE-A53C-483C-9E9D-E6FB326F4F59}.Release|x86.Build.0 = Release|Win32
+		{3EB0C899-28BA-413B-8108-EA2218921DFF}.Debug|x64.ActiveCfg = Debug|x64
+		{3EB0C899-28BA-413B-8108-EA2218921DFF}.Debug|x64.Build.0 = Debug|x64
+		{3EB0C899-28BA-413B-8108-EA2218921DFF}.Debug|x86.ActiveCfg = Debug|Win32
+		{3EB0C899-28BA-413B-8108-EA2218921DFF}.Debug|x86.Build.0 = Debug|Win32
+		{3EB0C899-28BA-413B-8108-EA2218921DFF}.Release|x64.ActiveCfg = Release|x64
+		{3EB0C899-28BA-413B-8108-EA2218921DFF}.Release|x64.Build.0 = Release|x64
+		{3EB0C899-28BA-413B-8108-EA2218921DFF}.Release|x86.ActiveCfg = Release|Win32
+		{3EB0C899-28BA-413B-8108-EA2218921DFF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
