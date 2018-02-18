@@ -143,6 +143,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1061. Dating", "1061. Datin
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1118. Birds in Forest", "1118. Birds in Forest\1118. Birds in Forest.vcxproj", "{87FADF52-9205-4206-AA6C-13137FAD4CCD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1133. Splitting A Linked List", "1133. Splitting A Linked List\1133. Splitting A Linked List.vcxproj", "{FC58536A-829A-4A6B-B93B-A98FF7FB8038}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -711,6 +713,14 @@ Global
 		{87FADF52-9205-4206-AA6C-13137FAD4CCD}.Release|x64.Build.0 = Release|x64
 		{87FADF52-9205-4206-AA6C-13137FAD4CCD}.Release|x86.ActiveCfg = Release|Win32
 		{87FADF52-9205-4206-AA6C-13137FAD4CCD}.Release|x86.Build.0 = Release|Win32
+		{FC58536A-829A-4A6B-B93B-A98FF7FB8038}.Debug|x64.ActiveCfg = Debug|x64
+		{FC58536A-829A-4A6B-B93B-A98FF7FB8038}.Debug|x64.Build.0 = Debug|x64
+		{FC58536A-829A-4A6B-B93B-A98FF7FB8038}.Debug|x86.ActiveCfg = Debug|Win32
+		{FC58536A-829A-4A6B-B93B-A98FF7FB8038}.Debug|x86.Build.0 = Debug|Win32
+		{FC58536A-829A-4A6B-B93B-A98FF7FB8038}.Release|x64.ActiveCfg = Release|x64
+		{FC58536A-829A-4A6B-B93B-A98FF7FB8038}.Release|x64.Build.0 = Release|x64
+		{FC58536A-829A-4A6B-B93B-A98FF7FB8038}.Release|x86.ActiveCfg = Release|Win32
+		{FC58536A-829A-4A6B-B93B-A98FF7FB8038}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
