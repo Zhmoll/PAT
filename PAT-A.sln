@@ -155,6 +155,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1099. Build A Binary Search
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1110. Complete Binary Tree", "1110. Complete Binary Tree\1110. Complete Binary Tree.vcxproj", "{3F46164A-489A-4BE1-997A-3654F60996D7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1127. ZigZagging on a Tree", "1127. ZigZagging on a Tree\1127. ZigZagging on a Tree.vcxproj", "{4BBD80CE-1AB5-4481-8469-8537E3EF3F64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -771,6 +773,14 @@ Global
 		{3F46164A-489A-4BE1-997A-3654F60996D7}.Release|x64.Build.0 = Release|x64
 		{3F46164A-489A-4BE1-997A-3654F60996D7}.Release|x86.ActiveCfg = Release|Win32
 		{3F46164A-489A-4BE1-997A-3654F60996D7}.Release|x86.Build.0 = Release|Win32
+		{4BBD80CE-1AB5-4481-8469-8537E3EF3F64}.Debug|x64.ActiveCfg = Debug|x64
+		{4BBD80CE-1AB5-4481-8469-8537E3EF3F64}.Debug|x64.Build.0 = Debug|x64
+		{4BBD80CE-1AB5-4481-8469-8537E3EF3F64}.Debug|x86.ActiveCfg = Debug|Win32
+		{4BBD80CE-1AB5-4481-8469-8537E3EF3F64}.Debug|x86.Build.0 = Debug|Win32
+		{4BBD80CE-1AB5-4481-8469-8537E3EF3F64}.Release|x64.ActiveCfg = Release|x64
+		{4BBD80CE-1AB5-4481-8469-8537E3EF3F64}.Release|x64.Build.0 = Release|x64
+		{4BBD80CE-1AB5-4481-8469-8537E3EF3F64}.Release|x86.ActiveCfg = Release|Win32
+		{4BBD80CE-1AB5-4481-8469-8537E3EF3F64}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
