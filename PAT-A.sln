@@ -145,6 +145,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1118. Birds in Forest", "11
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1133. Splitting A Linked List", "1133. Splitting A Linked List\1133. Splitting A Linked List.vcxproj", "{FC58536A-829A-4A6B-B93B-A98FF7FB8038}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1136. A Delayed Palindrome", "1136. A Delayed Palindrome\1136. A Delayed Palindrome.vcxproj", "{3DE411BE-2BF6-44CD-BAB1-DE430A1073EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -721,6 +723,14 @@ Global
 		{FC58536A-829A-4A6B-B93B-A98FF7FB8038}.Release|x64.Build.0 = Release|x64
 		{FC58536A-829A-4A6B-B93B-A98FF7FB8038}.Release|x86.ActiveCfg = Release|Win32
 		{FC58536A-829A-4A6B-B93B-A98FF7FB8038}.Release|x86.Build.0 = Release|Win32
+		{3DE411BE-2BF6-44CD-BAB1-DE430A1073EC}.Debug|x64.ActiveCfg = Debug|x64
+		{3DE411BE-2BF6-44CD-BAB1-DE430A1073EC}.Debug|x64.Build.0 = Debug|x64
+		{3DE411BE-2BF6-44CD-BAB1-DE430A1073EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{3DE411BE-2BF6-44CD-BAB1-DE430A1073EC}.Debug|x86.Build.0 = Debug|Win32
+		{3DE411BE-2BF6-44CD-BAB1-DE430A1073EC}.Release|x64.ActiveCfg = Release|x64
+		{3DE411BE-2BF6-44CD-BAB1-DE430A1073EC}.Release|x64.Build.0 = Release|x64
+		{3DE411BE-2BF6-44CD-BAB1-DE430A1073EC}.Release|x86.ActiveCfg = Release|Win32
+		{3DE411BE-2BF6-44CD-BAB1-DE430A1073EC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
