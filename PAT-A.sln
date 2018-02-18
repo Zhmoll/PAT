@@ -147,6 +147,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1133. Splitting A Linked Li
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1136. A Delayed Palindrome", "1136. A Delayed Palindrome\1136. A Delayed Palindrome.vcxproj", "{3DE411BE-2BF6-44CD-BAB1-DE430A1073EC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1098. Insertion or Heap Sort", "1098. Insertion or Heap Sort\1098. Insertion or Heap Sort.vcxproj", "{9CD20765-4B17-4406-A165-3E28EBB1D86D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -731,6 +733,14 @@ Global
 		{3DE411BE-2BF6-44CD-BAB1-DE430A1073EC}.Release|x64.Build.0 = Release|x64
 		{3DE411BE-2BF6-44CD-BAB1-DE430A1073EC}.Release|x86.ActiveCfg = Release|Win32
 		{3DE411BE-2BF6-44CD-BAB1-DE430A1073EC}.Release|x86.Build.0 = Release|Win32
+		{9CD20765-4B17-4406-A165-3E28EBB1D86D}.Debug|x64.ActiveCfg = Debug|x64
+		{9CD20765-4B17-4406-A165-3E28EBB1D86D}.Debug|x64.Build.0 = Debug|x64
+		{9CD20765-4B17-4406-A165-3E28EBB1D86D}.Debug|x86.ActiveCfg = Debug|Win32
+		{9CD20765-4B17-4406-A165-3E28EBB1D86D}.Debug|x86.Build.0 = Debug|Win32
+		{9CD20765-4B17-4406-A165-3E28EBB1D86D}.Release|x64.ActiveCfg = Release|x64
+		{9CD20765-4B17-4406-A165-3E28EBB1D86D}.Release|x64.Build.0 = Release|x64
+		{9CD20765-4B17-4406-A165-3E28EBB1D86D}.Release|x86.ActiveCfg = Release|Win32
+		{9CD20765-4B17-4406-A165-3E28EBB1D86D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
