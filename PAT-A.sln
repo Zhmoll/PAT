@@ -165,6 +165,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1120. Friend Numbers", "112
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1116. Come on! Let's C", "1116. Come on! Let's C\1116. Come on! Let's C.vcxproj", "{9DBC7BD4-CF3E-43C4-A1BA-89FA110553CA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1082. Read Number in Chinese", "1082. Read Number in Chinese\1082. Read Number in Chinese.vcxproj", "{E969FC61-6AFA-4341-A13F-549AA7FED6BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -821,6 +823,14 @@ Global
 		{9DBC7BD4-CF3E-43C4-A1BA-89FA110553CA}.Release|x64.Build.0 = Release|x64
 		{9DBC7BD4-CF3E-43C4-A1BA-89FA110553CA}.Release|x86.ActiveCfg = Release|Win32
 		{9DBC7BD4-CF3E-43C4-A1BA-89FA110553CA}.Release|x86.Build.0 = Release|Win32
+		{E969FC61-6AFA-4341-A13F-549AA7FED6BC}.Debug|x64.ActiveCfg = Debug|x64
+		{E969FC61-6AFA-4341-A13F-549AA7FED6BC}.Debug|x64.Build.0 = Debug|x64
+		{E969FC61-6AFA-4341-A13F-549AA7FED6BC}.Debug|x86.ActiveCfg = Debug|Win32
+		{E969FC61-6AFA-4341-A13F-549AA7FED6BC}.Debug|x86.Build.0 = Debug|Win32
+		{E969FC61-6AFA-4341-A13F-549AA7FED6BC}.Release|x64.ActiveCfg = Release|x64
+		{E969FC61-6AFA-4341-A13F-549AA7FED6BC}.Release|x64.Build.0 = Release|x64
+		{E969FC61-6AFA-4341-A13F-549AA7FED6BC}.Release|x86.ActiveCfg = Release|Win32
+		{E969FC61-6AFA-4341-A13F-549AA7FED6BC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
