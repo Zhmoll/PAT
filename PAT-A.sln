@@ -167,6 +167,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1116. Come on! Let's C", "1
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1082. Read Number in Chinese", "1082. Read Number in Chinese\1082. Read Number in Chinese.vcxproj", "{E969FC61-6AFA-4341-A13F-549AA7FED6BC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1064. Complete Binary Search Tree", "1064. Complete Binary Search Tree\1064. Complete Binary Search Tree.vcxproj", "{3F214A7D-4163-4C33-B6BD-7343930D4A48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -831,6 +833,14 @@ Global
 		{E969FC61-6AFA-4341-A13F-549AA7FED6BC}.Release|x64.Build.0 = Release|x64
 		{E969FC61-6AFA-4341-A13F-549AA7FED6BC}.Release|x86.ActiveCfg = Release|Win32
 		{E969FC61-6AFA-4341-A13F-549AA7FED6BC}.Release|x86.Build.0 = Release|Win32
+		{3F214A7D-4163-4C33-B6BD-7343930D4A48}.Debug|x64.ActiveCfg = Debug|x64
+		{3F214A7D-4163-4C33-B6BD-7343930D4A48}.Debug|x64.Build.0 = Debug|x64
+		{3F214A7D-4163-4C33-B6BD-7343930D4A48}.Debug|x86.ActiveCfg = Debug|Win32
+		{3F214A7D-4163-4C33-B6BD-7343930D4A48}.Debug|x86.Build.0 = Debug|Win32
+		{3F214A7D-4163-4C33-B6BD-7343930D4A48}.Release|x64.ActiveCfg = Release|x64
+		{3F214A7D-4163-4C33-B6BD-7343930D4A48}.Release|x64.Build.0 = Release|x64
+		{3F214A7D-4163-4C33-B6BD-7343930D4A48}.Release|x86.ActiveCfg = Release|Win32
+		{3F214A7D-4163-4C33-B6BD-7343930D4A48}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
