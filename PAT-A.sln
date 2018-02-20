@@ -177,6 +177,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1049. Counting Ones", "1049
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1100. Mars Numbers", "1100. Mars Numbers\1100. Mars Numbers.vcxproj", "{C1017BC2-EB31-45D1-8703-40E7210226DF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1076. Forwards on Weibo", "1076. Forwards on Weibo\1076. Forwards on Weibo.vcxproj", "{61AAFBDE-FBEF-45FA-9E83-748ECB5235E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -881,6 +883,14 @@ Global
 		{C1017BC2-EB31-45D1-8703-40E7210226DF}.Release|x64.Build.0 = Release|x64
 		{C1017BC2-EB31-45D1-8703-40E7210226DF}.Release|x86.ActiveCfg = Release|Win32
 		{C1017BC2-EB31-45D1-8703-40E7210226DF}.Release|x86.Build.0 = Release|Win32
+		{61AAFBDE-FBEF-45FA-9E83-748ECB5235E7}.Debug|x64.ActiveCfg = Debug|x64
+		{61AAFBDE-FBEF-45FA-9E83-748ECB5235E7}.Debug|x64.Build.0 = Debug|x64
+		{61AAFBDE-FBEF-45FA-9E83-748ECB5235E7}.Debug|x86.ActiveCfg = Debug|Win32
+		{61AAFBDE-FBEF-45FA-9E83-748ECB5235E7}.Debug|x86.Build.0 = Debug|Win32
+		{61AAFBDE-FBEF-45FA-9E83-748ECB5235E7}.Release|x64.ActiveCfg = Release|x64
+		{61AAFBDE-FBEF-45FA-9E83-748ECB5235E7}.Release|x64.Build.0 = Release|x64
+		{61AAFBDE-FBEF-45FA-9E83-748ECB5235E7}.Release|x86.ActiveCfg = Release|Win32
+		{61AAFBDE-FBEF-45FA-9E83-748ECB5235E7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
