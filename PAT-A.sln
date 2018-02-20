@@ -179,6 +179,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1100. Mars Numbers", "1100.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1076. Forwards on Weibo", "1076. Forwards on Weibo\1076. Forwards on Weibo.vcxproj", "{61AAFBDE-FBEF-45FA-9E83-748ECB5235E7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1079. Total Sales of Supply Chain", "1079. Total Sales of Supply Chain\1079. Total Sales of Supply Chain.vcxproj", "{A6874929-D13D-42A2-A3A0-15DF728CB2F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -891,6 +893,14 @@ Global
 		{61AAFBDE-FBEF-45FA-9E83-748ECB5235E7}.Release|x64.Build.0 = Release|x64
 		{61AAFBDE-FBEF-45FA-9E83-748ECB5235E7}.Release|x86.ActiveCfg = Release|Win32
 		{61AAFBDE-FBEF-45FA-9E83-748ECB5235E7}.Release|x86.Build.0 = Release|Win32
+		{A6874929-D13D-42A2-A3A0-15DF728CB2F1}.Debug|x64.ActiveCfg = Debug|x64
+		{A6874929-D13D-42A2-A3A0-15DF728CB2F1}.Debug|x64.Build.0 = Debug|x64
+		{A6874929-D13D-42A2-A3A0-15DF728CB2F1}.Debug|x86.ActiveCfg = Debug|Win32
+		{A6874929-D13D-42A2-A3A0-15DF728CB2F1}.Debug|x86.Build.0 = Debug|Win32
+		{A6874929-D13D-42A2-A3A0-15DF728CB2F1}.Release|x64.ActiveCfg = Release|x64
+		{A6874929-D13D-42A2-A3A0-15DF728CB2F1}.Release|x64.Build.0 = Release|x64
+		{A6874929-D13D-42A2-A3A0-15DF728CB2F1}.Release|x86.ActiveCfg = Release|Win32
+		{A6874929-D13D-42A2-A3A0-15DF728CB2F1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
