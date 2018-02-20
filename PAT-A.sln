@@ -183,6 +183,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1079. Total Sales of Supply
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1091. Acute Stroke", "1091. Acute Stroke\1091. Acute Stroke.vcxproj", "{3482B612-5BCE-4759-A5C2-A45DC807EFCD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1041. Be Unique", "1041. Be Unique\1041. Be Unique.vcxproj", "{264F7122-FDAE-4A67-BAB0-286FEF46BC2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -911,6 +913,14 @@ Global
 		{3482B612-5BCE-4759-A5C2-A45DC807EFCD}.Release|x64.Build.0 = Release|x64
 		{3482B612-5BCE-4759-A5C2-A45DC807EFCD}.Release|x86.ActiveCfg = Release|Win32
 		{3482B612-5BCE-4759-A5C2-A45DC807EFCD}.Release|x86.Build.0 = Release|Win32
+		{264F7122-FDAE-4A67-BAB0-286FEF46BC2D}.Debug|x64.ActiveCfg = Debug|x64
+		{264F7122-FDAE-4A67-BAB0-286FEF46BC2D}.Debug|x64.Build.0 = Debug|x64
+		{264F7122-FDAE-4A67-BAB0-286FEF46BC2D}.Debug|x86.ActiveCfg = Debug|Win32
+		{264F7122-FDAE-4A67-BAB0-286FEF46BC2D}.Debug|x86.Build.0 = Debug|Win32
+		{264F7122-FDAE-4A67-BAB0-286FEF46BC2D}.Release|x64.ActiveCfg = Release|x64
+		{264F7122-FDAE-4A67-BAB0-286FEF46BC2D}.Release|x64.Build.0 = Release|x64
+		{264F7122-FDAE-4A67-BAB0-286FEF46BC2D}.Release|x86.ActiveCfg = Release|Win32
+		{264F7122-FDAE-4A67-BAB0-286FEF46BC2D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
