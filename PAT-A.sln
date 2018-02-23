@@ -193,6 +193,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1030. Travel Plan", "1030. 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1030. Travel Plan version2", "1030. Travel Plan version2\1030. Travel Plan version2.vcxproj", "{360C2DF8-4D89-4490-B8A4-78B4726EBA12}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1018. Public Bike Management", "1018. Public Bike Management\1018. Public Bike Management.vcxproj", "{2AB70E8E-2CC1-45EA-88C9-3838B60AA026}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -961,6 +963,14 @@ Global
 		{360C2DF8-4D89-4490-B8A4-78B4726EBA12}.Release|x64.Build.0 = Release|x64
 		{360C2DF8-4D89-4490-B8A4-78B4726EBA12}.Release|x86.ActiveCfg = Release|Win32
 		{360C2DF8-4D89-4490-B8A4-78B4726EBA12}.Release|x86.Build.0 = Release|Win32
+		{2AB70E8E-2CC1-45EA-88C9-3838B60AA026}.Debug|x64.ActiveCfg = Debug|x64
+		{2AB70E8E-2CC1-45EA-88C9-3838B60AA026}.Debug|x64.Build.0 = Debug|x64
+		{2AB70E8E-2CC1-45EA-88C9-3838B60AA026}.Debug|x86.ActiveCfg = Debug|Win32
+		{2AB70E8E-2CC1-45EA-88C9-3838B60AA026}.Debug|x86.Build.0 = Debug|Win32
+		{2AB70E8E-2CC1-45EA-88C9-3838B60AA026}.Release|x64.ActiveCfg = Release|x64
+		{2AB70E8E-2CC1-45EA-88C9-3838B60AA026}.Release|x64.Build.0 = Release|x64
+		{2AB70E8E-2CC1-45EA-88C9-3838B60AA026}.Release|x86.ActiveCfg = Release|Win32
+		{2AB70E8E-2CC1-45EA-88C9-3838B60AA026}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
