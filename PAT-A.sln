@@ -197,6 +197,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1018. Public Bike Managemen
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1050. String Subtraction", "1050. String Subtraction\1050. String Subtraction.vcxproj", "{AB378D3C-700C-4742-9388-643768407348}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1022. Digital Library", "1022. Digital Library\1022. Digital Library.vcxproj", "{BC422B8C-CC2B-4D7E-8BF5-307C69154E04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -981,6 +983,14 @@ Global
 		{AB378D3C-700C-4742-9388-643768407348}.Release|x64.Build.0 = Release|x64
 		{AB378D3C-700C-4742-9388-643768407348}.Release|x86.ActiveCfg = Release|Win32
 		{AB378D3C-700C-4742-9388-643768407348}.Release|x86.Build.0 = Release|Win32
+		{BC422B8C-CC2B-4D7E-8BF5-307C69154E04}.Debug|x64.ActiveCfg = Debug|x64
+		{BC422B8C-CC2B-4D7E-8BF5-307C69154E04}.Debug|x64.Build.0 = Debug|x64
+		{BC422B8C-CC2B-4D7E-8BF5-307C69154E04}.Debug|x86.ActiveCfg = Debug|Win32
+		{BC422B8C-CC2B-4D7E-8BF5-307C69154E04}.Debug|x86.Build.0 = Debug|Win32
+		{BC422B8C-CC2B-4D7E-8BF5-307C69154E04}.Release|x64.ActiveCfg = Release|x64
+		{BC422B8C-CC2B-4D7E-8BF5-307C69154E04}.Release|x64.Build.0 = Release|x64
+		{BC422B8C-CC2B-4D7E-8BF5-307C69154E04}.Release|x86.ActiveCfg = Release|Win32
+		{BC422B8C-CC2B-4D7E-8BF5-307C69154E04}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
