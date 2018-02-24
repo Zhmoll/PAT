@@ -199,6 +199,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1050. String Subtraction", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1022. Digital Library", "1022. Digital Library\1022. Digital Library.vcxproj", "{BC422B8C-CC2B-4D7E-8BF5-307C69154E04}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1003. Emergency version2", "1003. Emergency version2\1003. Emergency version2.vcxproj", "{47D26AE7-3747-44C5-869F-36CAFA32B323}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -991,6 +993,14 @@ Global
 		{BC422B8C-CC2B-4D7E-8BF5-307C69154E04}.Release|x64.Build.0 = Release|x64
 		{BC422B8C-CC2B-4D7E-8BF5-307C69154E04}.Release|x86.ActiveCfg = Release|Win32
 		{BC422B8C-CC2B-4D7E-8BF5-307C69154E04}.Release|x86.Build.0 = Release|Win32
+		{47D26AE7-3747-44C5-869F-36CAFA32B323}.Debug|x64.ActiveCfg = Debug|x64
+		{47D26AE7-3747-44C5-869F-36CAFA32B323}.Debug|x64.Build.0 = Debug|x64
+		{47D26AE7-3747-44C5-869F-36CAFA32B323}.Debug|x86.ActiveCfg = Debug|Win32
+		{47D26AE7-3747-44C5-869F-36CAFA32B323}.Debug|x86.Build.0 = Debug|Win32
+		{47D26AE7-3747-44C5-869F-36CAFA32B323}.Release|x64.ActiveCfg = Release|x64
+		{47D26AE7-3747-44C5-869F-36CAFA32B323}.Release|x64.Build.0 = Release|x64
+		{47D26AE7-3747-44C5-869F-36CAFA32B323}.Release|x86.ActiveCfg = Release|Win32
+		{47D26AE7-3747-44C5-869F-36CAFA32B323}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
