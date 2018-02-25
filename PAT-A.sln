@@ -213,6 +213,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1045. Favorite Color Stripe
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1040. Longest Symmetric String", "1040. Longest Symmetric String\1040. Longest Symmetric String.vcxproj", "{34645AC6-0772-4959-BC02-03AD2388E658}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1103. Integer Factorization", "1103. Integer Factorization\1103. Integer Factorization.vcxproj", "{87CA4B1F-9730-4625-B737-0C05BC1ECB35}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1061,6 +1063,14 @@ Global
 		{34645AC6-0772-4959-BC02-03AD2388E658}.Release|x64.Build.0 = Release|x64
 		{34645AC6-0772-4959-BC02-03AD2388E658}.Release|x86.ActiveCfg = Release|Win32
 		{34645AC6-0772-4959-BC02-03AD2388E658}.Release|x86.Build.0 = Release|Win32
+		{87CA4B1F-9730-4625-B737-0C05BC1ECB35}.Debug|x64.ActiveCfg = Debug|x64
+		{87CA4B1F-9730-4625-B737-0C05BC1ECB35}.Debug|x64.Build.0 = Debug|x64
+		{87CA4B1F-9730-4625-B737-0C05BC1ECB35}.Debug|x86.ActiveCfg = Debug|Win32
+		{87CA4B1F-9730-4625-B737-0C05BC1ECB35}.Debug|x86.Build.0 = Debug|Win32
+		{87CA4B1F-9730-4625-B737-0C05BC1ECB35}.Release|x64.ActiveCfg = Release|x64
+		{87CA4B1F-9730-4625-B737-0C05BC1ECB35}.Release|x64.Build.0 = Release|x64
+		{87CA4B1F-9730-4625-B737-0C05BC1ECB35}.Release|x86.ActiveCfg = Release|Win32
+		{87CA4B1F-9730-4625-B737-0C05BC1ECB35}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
