@@ -217,6 +217,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1103. Integer Factorization
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1026. Table Tennis", "1026. Table Tennis\1026. Table Tennis.vcxproj", "{F66A738D-5FE2-432E-B262-DDDC8FC6B29B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1038. Recover the Smallest Number", "1038. Recover the Smallest Number\1038. Recover the Smallest Number.vcxproj", "{7A8C016C-83FF-4C42-B32D-205EBA26345F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1081,6 +1083,14 @@ Global
 		{F66A738D-5FE2-432E-B262-DDDC8FC6B29B}.Release|x64.Build.0 = Release|x64
 		{F66A738D-5FE2-432E-B262-DDDC8FC6B29B}.Release|x86.ActiveCfg = Release|Win32
 		{F66A738D-5FE2-432E-B262-DDDC8FC6B29B}.Release|x86.Build.0 = Release|Win32
+		{7A8C016C-83FF-4C42-B32D-205EBA26345F}.Debug|x64.ActiveCfg = Debug|x64
+		{7A8C016C-83FF-4C42-B32D-205EBA26345F}.Debug|x64.Build.0 = Debug|x64
+		{7A8C016C-83FF-4C42-B32D-205EBA26345F}.Debug|x86.ActiveCfg = Debug|Win32
+		{7A8C016C-83FF-4C42-B32D-205EBA26345F}.Debug|x86.Build.0 = Debug|Win32
+		{7A8C016C-83FF-4C42-B32D-205EBA26345F}.Release|x64.ActiveCfg = Release|x64
+		{7A8C016C-83FF-4C42-B32D-205EBA26345F}.Release|x64.Build.0 = Release|x64
+		{7A8C016C-83FF-4C42-B32D-205EBA26345F}.Release|x86.ActiveCfg = Release|Win32
+		{7A8C016C-83FF-4C42-B32D-205EBA26345F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
