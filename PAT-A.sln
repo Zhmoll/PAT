@@ -222,6 +222,13 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1081. Rational Sum", "1081. Rational Sum\1081. Rational Sum.vcxproj", "{9A41C744-C0D3-42A9-B07C-A7144AE46EB2}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1077. Kuchiguse", "1077. Kuchiguse\1077. Kuchiguse.vcxproj", "{66ECB47C-14DE-4162-BAE7-4D6E33252E81}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1095. Cars on Campus", "1095. Cars on Campus\1095. Cars on Campus.vcxproj", "{F5B61615-8ED6-44BC-A022-27764C7A9787}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1092. To Buy or Not to Buy", "1092. To Buy or Not to Buy\1092. To Buy or Not to Buy.vcxproj", "{7F8B1E90-80CE-4E41-AD0F-6C077143E392}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1047. Student List for Course", "1047. Student List for Course\1047. Student List for Course.vcxproj", "{28E52CF2-B883-4FAE-BCCA-EFC717ACC141}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1090. Highest Price in Supply Chain", "1090. Highest Price in Supply Chain\1090. Highest Price in Supply Chain.vcxproj", "{10296DD3-722E-40B0-A3C2-3AC2144B0597}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1111,6 +1118,38 @@ Global
 		{66ECB47C-14DE-4162-BAE7-4D6E33252E81}.Release|x64.Build.0 = Release|x64
 		{66ECB47C-14DE-4162-BAE7-4D6E33252E81}.Release|x86.ActiveCfg = Release|Win32
 		{66ECB47C-14DE-4162-BAE7-4D6E33252E81}.Release|x86.Build.0 = Release|Win32
+		{F5B61615-8ED6-44BC-A022-27764C7A9787}.Debug|x64.ActiveCfg = Debug|x64
+		{F5B61615-8ED6-44BC-A022-27764C7A9787}.Debug|x64.Build.0 = Debug|x64
+		{F5B61615-8ED6-44BC-A022-27764C7A9787}.Debug|x86.ActiveCfg = Debug|Win32
+		{F5B61615-8ED6-44BC-A022-27764C7A9787}.Debug|x86.Build.0 = Debug|Win32
+		{F5B61615-8ED6-44BC-A022-27764C7A9787}.Release|x64.ActiveCfg = Release|x64
+		{F5B61615-8ED6-44BC-A022-27764C7A9787}.Release|x64.Build.0 = Release|x64
+		{F5B61615-8ED6-44BC-A022-27764C7A9787}.Release|x86.ActiveCfg = Release|Win32
+		{F5B61615-8ED6-44BC-A022-27764C7A9787}.Release|x86.Build.0 = Release|Win32
+		{7F8B1E90-80CE-4E41-AD0F-6C077143E392}.Debug|x64.ActiveCfg = Debug|x64
+		{7F8B1E90-80CE-4E41-AD0F-6C077143E392}.Debug|x64.Build.0 = Debug|x64
+		{7F8B1E90-80CE-4E41-AD0F-6C077143E392}.Debug|x86.ActiveCfg = Debug|Win32
+		{7F8B1E90-80CE-4E41-AD0F-6C077143E392}.Debug|x86.Build.0 = Debug|Win32
+		{7F8B1E90-80CE-4E41-AD0F-6C077143E392}.Release|x64.ActiveCfg = Release|x64
+		{7F8B1E90-80CE-4E41-AD0F-6C077143E392}.Release|x64.Build.0 = Release|x64
+		{7F8B1E90-80CE-4E41-AD0F-6C077143E392}.Release|x86.ActiveCfg = Release|Win32
+		{7F8B1E90-80CE-4E41-AD0F-6C077143E392}.Release|x86.Build.0 = Release|Win32
+		{28E52CF2-B883-4FAE-BCCA-EFC717ACC141}.Debug|x64.ActiveCfg = Debug|x64
+		{28E52CF2-B883-4FAE-BCCA-EFC717ACC141}.Debug|x64.Build.0 = Debug|x64
+		{28E52CF2-B883-4FAE-BCCA-EFC717ACC141}.Debug|x86.ActiveCfg = Debug|Win32
+		{28E52CF2-B883-4FAE-BCCA-EFC717ACC141}.Debug|x86.Build.0 = Debug|Win32
+		{28E52CF2-B883-4FAE-BCCA-EFC717ACC141}.Release|x64.ActiveCfg = Release|x64
+		{28E52CF2-B883-4FAE-BCCA-EFC717ACC141}.Release|x64.Build.0 = Release|x64
+		{28E52CF2-B883-4FAE-BCCA-EFC717ACC141}.Release|x86.ActiveCfg = Release|Win32
+		{28E52CF2-B883-4FAE-BCCA-EFC717ACC141}.Release|x86.Build.0 = Release|Win32
+		{10296DD3-722E-40B0-A3C2-3AC2144B0597}.Debug|x64.ActiveCfg = Debug|x64
+		{10296DD3-722E-40B0-A3C2-3AC2144B0597}.Debug|x64.Build.0 = Debug|x64
+		{10296DD3-722E-40B0-A3C2-3AC2144B0597}.Debug|x86.ActiveCfg = Debug|Win32
+		{10296DD3-722E-40B0-A3C2-3AC2144B0597}.Debug|x86.Build.0 = Debug|Win32
+		{10296DD3-722E-40B0-A3C2-3AC2144B0597}.Release|x64.ActiveCfg = Release|x64
+		{10296DD3-722E-40B0-A3C2-3AC2144B0597}.Release|x64.Build.0 = Release|x64
+		{10296DD3-722E-40B0-A3C2-3AC2144B0597}.Release|x86.ActiveCfg = Release|Win32
+		{10296DD3-722E-40B0-A3C2-3AC2144B0597}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
