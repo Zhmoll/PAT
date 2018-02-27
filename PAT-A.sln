@@ -247,6 +247,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1054. The Dominant Color", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1056. Mice and Rice", "1056. Mice and Rice\1056. Mice and Rice.vcxproj", "{5BB5FCDF-E338-4322-BA9F-AE372AB3A015}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1071. Speech Patterns", "1071. Speech Patterns\1071. Speech Patterns.vcxproj", "{06A81896-B739-4570-87AE-93C80A68CC67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1231,6 +1233,14 @@ Global
 		{5BB5FCDF-E338-4322-BA9F-AE372AB3A015}.Release|x64.Build.0 = Release|x64
 		{5BB5FCDF-E338-4322-BA9F-AE372AB3A015}.Release|x86.ActiveCfg = Release|Win32
 		{5BB5FCDF-E338-4322-BA9F-AE372AB3A015}.Release|x86.Build.0 = Release|Win32
+		{06A81896-B739-4570-87AE-93C80A68CC67}.Debug|x64.ActiveCfg = Debug|x64
+		{06A81896-B739-4570-87AE-93C80A68CC67}.Debug|x64.Build.0 = Debug|x64
+		{06A81896-B739-4570-87AE-93C80A68CC67}.Debug|x86.ActiveCfg = Debug|Win32
+		{06A81896-B739-4570-87AE-93C80A68CC67}.Debug|x86.Build.0 = Debug|Win32
+		{06A81896-B739-4570-87AE-93C80A68CC67}.Release|x64.ActiveCfg = Release|x64
+		{06A81896-B739-4570-87AE-93C80A68CC67}.Release|x64.Build.0 = Release|x64
+		{06A81896-B739-4570-87AE-93C80A68CC67}.Release|x86.ActiveCfg = Release|Win32
+		{06A81896-B739-4570-87AE-93C80A68CC67}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
