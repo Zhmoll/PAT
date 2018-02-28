@@ -267,6 +267,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1044. Shopping in Mars", "1
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1016. Phone Bills", "1016. Phone Bills\1016. Phone Bills.vcxproj", "{BC2407B6-F8EF-474F-A5BE-DB0CCCBB0C31}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1017. Queueing at Bank", "1017. Queueing at Bank\1017. Queueing at Bank.vcxproj", "{74EE2050-2016-48B3-A756-58B45574F079}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1331,6 +1333,14 @@ Global
 		{BC2407B6-F8EF-474F-A5BE-DB0CCCBB0C31}.Release|x64.Build.0 = Release|x64
 		{BC2407B6-F8EF-474F-A5BE-DB0CCCBB0C31}.Release|x86.ActiveCfg = Release|Win32
 		{BC2407B6-F8EF-474F-A5BE-DB0CCCBB0C31}.Release|x86.Build.0 = Release|Win32
+		{74EE2050-2016-48B3-A756-58B45574F079}.Debug|x64.ActiveCfg = Debug|x64
+		{74EE2050-2016-48B3-A756-58B45574F079}.Debug|x64.Build.0 = Debug|x64
+		{74EE2050-2016-48B3-A756-58B45574F079}.Debug|x86.ActiveCfg = Debug|Win32
+		{74EE2050-2016-48B3-A756-58B45574F079}.Debug|x86.Build.0 = Debug|Win32
+		{74EE2050-2016-48B3-A756-58B45574F079}.Release|x64.ActiveCfg = Release|x64
+		{74EE2050-2016-48B3-A756-58B45574F079}.Release|x64.Build.0 = Release|x64
+		{74EE2050-2016-48B3-A756-58B45574F079}.Release|x86.ActiveCfg = Release|Win32
+		{74EE2050-2016-48B3-A756-58B45574F079}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
