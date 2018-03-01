@@ -268,6 +268,7 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1016. Phone Bills", "1016. Phone Bills\1016. Phone Bills.vcxproj", "{BC2407B6-F8EF-474F-A5BE-DB0CCCBB0C31}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1017. Queueing at Bank", "1017. Queueing at Bank\1017. Queueing at Bank.vcxproj", "{74EE2050-2016-48B3-A756-58B45574F079}"
+EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1014. Waiting in Line", "1014. Waiting in Line\1014. Waiting in Line.vcxproj", "{D24BE585-DCC2-4F12-89E7-989E1B48C2D4}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1067. Sort with Swap", "1067. Sort with Swap\1067. Sort with Swap.vcxproj", "{A1E2B906-9271-434C-BD49-7C9A59DF8B68}"
@@ -279,6 +280,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1062. Talent and Virtue", "1062. Talent and Virtue\1062. Talent and Virtue.vcxproj", "{FA8FD88B-BF55-4E9E-849B-362BD46400CF}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1010. Radix", "1010. Radix\1010. Radix.vcxproj", "{1ABCB218-9669-4ADF-8EB6-7E58A8F9596E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1089. Insert or Merge", "1089. Insert or Merge\1089. Insert or Merge.vcxproj", "{682DD4A8-008F-4C58-BE6F-D3F8AB1124DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1400,6 +1403,14 @@ Global
 		{1ABCB218-9669-4ADF-8EB6-7E58A8F9596E}.Release|x64.Build.0 = Release|x64
 		{1ABCB218-9669-4ADF-8EB6-7E58A8F9596E}.Release|x86.ActiveCfg = Release|Win32
 		{1ABCB218-9669-4ADF-8EB6-7E58A8F9596E}.Release|x86.Build.0 = Release|Win32
+		{682DD4A8-008F-4C58-BE6F-D3F8AB1124DA}.Debug|x64.ActiveCfg = Debug|x64
+		{682DD4A8-008F-4C58-BE6F-D3F8AB1124DA}.Debug|x64.Build.0 = Debug|x64
+		{682DD4A8-008F-4C58-BE6F-D3F8AB1124DA}.Debug|x86.ActiveCfg = Debug|Win32
+		{682DD4A8-008F-4C58-BE6F-D3F8AB1124DA}.Debug|x86.Build.0 = Debug|Win32
+		{682DD4A8-008F-4C58-BE6F-D3F8AB1124DA}.Release|x64.ActiveCfg = Release|x64
+		{682DD4A8-008F-4C58-BE6F-D3F8AB1124DA}.Release|x64.Build.0 = Release|x64
+		{682DD4A8-008F-4C58-BE6F-D3F8AB1124DA}.Release|x86.ActiveCfg = Release|Win32
+		{682DD4A8-008F-4C58-BE6F-D3F8AB1124DA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
