@@ -273,6 +273,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1024. Palindromic Number", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1062. Talent and Virtue", "1062. Talent and Virtue\1062. Talent and Virtue.vcxproj", "{FA8FD88B-BF55-4E9E-849B-362BD46400CF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1010. Radix", "1010. Radix\1010. Radix.vcxproj", "{1ABCB218-9669-4ADF-8EB6-7E58A8F9596E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1361,6 +1363,14 @@ Global
 		{FA8FD88B-BF55-4E9E-849B-362BD46400CF}.Release|x64.Build.0 = Release|x64
 		{FA8FD88B-BF55-4E9E-849B-362BD46400CF}.Release|x86.ActiveCfg = Release|Win32
 		{FA8FD88B-BF55-4E9E-849B-362BD46400CF}.Release|x86.Build.0 = Release|Win32
+		{1ABCB218-9669-4ADF-8EB6-7E58A8F9596E}.Debug|x64.ActiveCfg = Debug|x64
+		{1ABCB218-9669-4ADF-8EB6-7E58A8F9596E}.Debug|x64.Build.0 = Debug|x64
+		{1ABCB218-9669-4ADF-8EB6-7E58A8F9596E}.Debug|x86.ActiveCfg = Debug|Win32
+		{1ABCB218-9669-4ADF-8EB6-7E58A8F9596E}.Debug|x86.Build.0 = Debug|Win32
+		{1ABCB218-9669-4ADF-8EB6-7E58A8F9596E}.Release|x64.ActiveCfg = Release|x64
+		{1ABCB218-9669-4ADF-8EB6-7E58A8F9596E}.Release|x64.Build.0 = Release|x64
+		{1ABCB218-9669-4ADF-8EB6-7E58A8F9596E}.Release|x86.ActiveCfg = Release|Win32
+		{1ABCB218-9669-4ADF-8EB6-7E58A8F9596E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
