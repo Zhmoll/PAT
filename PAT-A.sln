@@ -265,6 +265,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1048. Find Coins", "1048. F
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1014. Waiting in Line", "1014. Waiting in Line\1014. Waiting in Line.vcxproj", "{D24BE585-DCC2-4F12-89E7-989E1B48C2D4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1067. Sort with Swap", "1067. Sort with Swap\1067. Sort with Swap.vcxproj", "{A1E2B906-9271-434C-BD49-7C9A59DF8B68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1321,6 +1323,14 @@ Global
 		{D24BE585-DCC2-4F12-89E7-989E1B48C2D4}.Release|x64.Build.0 = Release|x64
 		{D24BE585-DCC2-4F12-89E7-989E1B48C2D4}.Release|x86.ActiveCfg = Release|Win32
 		{D24BE585-DCC2-4F12-89E7-989E1B48C2D4}.Release|x86.Build.0 = Release|Win32
+		{A1E2B906-9271-434C-BD49-7C9A59DF8B68}.Debug|x64.ActiveCfg = Debug|x64
+		{A1E2B906-9271-434C-BD49-7C9A59DF8B68}.Debug|x64.Build.0 = Debug|x64
+		{A1E2B906-9271-434C-BD49-7C9A59DF8B68}.Debug|x86.ActiveCfg = Debug|Win32
+		{A1E2B906-9271-434C-BD49-7C9A59DF8B68}.Debug|x86.Build.0 = Debug|Win32
+		{A1E2B906-9271-434C-BD49-7C9A59DF8B68}.Release|x64.ActiveCfg = Release|x64
+		{A1E2B906-9271-434C-BD49-7C9A59DF8B68}.Release|x64.Build.0 = Release|x64
+		{A1E2B906-9271-434C-BD49-7C9A59DF8B68}.Release|x86.ActiveCfg = Release|Win32
+		{A1E2B906-9271-434C-BD49-7C9A59DF8B68}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
