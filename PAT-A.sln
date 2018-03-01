@@ -271,6 +271,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1080. Graduate Admission", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1024. Palindromic Number", "1024. Palindromic Number\1024. Palindromic Number.vcxproj", "{15D43BA3-B674-4B11-8306-E03B50D2F05D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1062. Talent and Virtue", "1062. Talent and Virtue\1062. Talent and Virtue.vcxproj", "{FA8FD88B-BF55-4E9E-849B-362BD46400CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1351,6 +1353,14 @@ Global
 		{15D43BA3-B674-4B11-8306-E03B50D2F05D}.Release|x64.Build.0 = Release|x64
 		{15D43BA3-B674-4B11-8306-E03B50D2F05D}.Release|x86.ActiveCfg = Release|Win32
 		{15D43BA3-B674-4B11-8306-E03B50D2F05D}.Release|x86.Build.0 = Release|Win32
+		{FA8FD88B-BF55-4E9E-849B-362BD46400CF}.Debug|x64.ActiveCfg = Debug|x64
+		{FA8FD88B-BF55-4E9E-849B-362BD46400CF}.Debug|x64.Build.0 = Debug|x64
+		{FA8FD88B-BF55-4E9E-849B-362BD46400CF}.Debug|x86.ActiveCfg = Debug|Win32
+		{FA8FD88B-BF55-4E9E-849B-362BD46400CF}.Debug|x86.Build.0 = Debug|Win32
+		{FA8FD88B-BF55-4E9E-849B-362BD46400CF}.Release|x64.ActiveCfg = Release|x64
+		{FA8FD88B-BF55-4E9E-849B-362BD46400CF}.Release|x64.Build.0 = Release|x64
+		{FA8FD88B-BF55-4E9E-849B-362BD46400CF}.Release|x86.ActiveCfg = Release|Win32
+		{FA8FD88B-BF55-4E9E-849B-362BD46400CF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
