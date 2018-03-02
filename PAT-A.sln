@@ -283,6 +283,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1010. Radix", "1010. Radix\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1089. Insert or Merge", "1089. Insert or Merge\1089. Insert or Merge.vcxproj", "{682DD4A8-008F-4C58-BE6F-D3F8AB1124DA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1066. Root of AVL Tree", "1066. Root of AVL Tree\1066. Root of AVL Tree.vcxproj", "{A5B3B8E9-165C-49C3-9777-115DBA18BF1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1411,6 +1413,14 @@ Global
 		{682DD4A8-008F-4C58-BE6F-D3F8AB1124DA}.Release|x64.Build.0 = Release|x64
 		{682DD4A8-008F-4C58-BE6F-D3F8AB1124DA}.Release|x86.ActiveCfg = Release|Win32
 		{682DD4A8-008F-4C58-BE6F-D3F8AB1124DA}.Release|x86.Build.0 = Release|Win32
+		{A5B3B8E9-165C-49C3-9777-115DBA18BF1F}.Debug|x64.ActiveCfg = Debug|x64
+		{A5B3B8E9-165C-49C3-9777-115DBA18BF1F}.Debug|x64.Build.0 = Debug|x64
+		{A5B3B8E9-165C-49C3-9777-115DBA18BF1F}.Debug|x86.ActiveCfg = Debug|Win32
+		{A5B3B8E9-165C-49C3-9777-115DBA18BF1F}.Debug|x86.Build.0 = Debug|Win32
+		{A5B3B8E9-165C-49C3-9777-115DBA18BF1F}.Release|x64.ActiveCfg = Release|x64
+		{A5B3B8E9-165C-49C3-9777-115DBA18BF1F}.Release|x64.Build.0 = Release|x64
+		{A5B3B8E9-165C-49C3-9777-115DBA18BF1F}.Release|x86.ActiveCfg = Release|Win32
+		{A5B3B8E9-165C-49C3-9777-115DBA18BF1F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
