@@ -291,6 +291,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1135. Is It A Red-Black Tre
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1139. First Contact", "1139. First Contact\1139. First Contact.vcxproj", "{62BCAD9D-35A6-4ACE-926C-A9458259C3EA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1033. To Fill or Not to Fill", "1033. To Fill or Not to Fill\1033. To Fill or Not to Fill.vcxproj", "{0779E010-61CC-49EA-A847-A6D85891BBD8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1451,6 +1453,14 @@ Global
 		{62BCAD9D-35A6-4ACE-926C-A9458259C3EA}.Release|x64.Build.0 = Release|x64
 		{62BCAD9D-35A6-4ACE-926C-A9458259C3EA}.Release|x86.ActiveCfg = Release|Win32
 		{62BCAD9D-35A6-4ACE-926C-A9458259C3EA}.Release|x86.Build.0 = Release|Win32
+		{0779E010-61CC-49EA-A847-A6D85891BBD8}.Debug|x64.ActiveCfg = Debug|x64
+		{0779E010-61CC-49EA-A847-A6D85891BBD8}.Debug|x64.Build.0 = Debug|x64
+		{0779E010-61CC-49EA-A847-A6D85891BBD8}.Debug|x86.ActiveCfg = Debug|Win32
+		{0779E010-61CC-49EA-A847-A6D85891BBD8}.Debug|x86.Build.0 = Debug|Win32
+		{0779E010-61CC-49EA-A847-A6D85891BBD8}.Release|x64.ActiveCfg = Release|x64
+		{0779E010-61CC-49EA-A847-A6D85891BBD8}.Release|x64.Build.0 = Release|x64
+		{0779E010-61CC-49EA-A847-A6D85891BBD8}.Release|x86.ActiveCfg = Release|Win32
+		{0779E010-61CC-49EA-A847-A6D85891BBD8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
