@@ -1,43 +1,32 @@
-#include <stdio.h>
-#include <string.h>
-#include <stdlib.h>
+#include <cstdio>
+#include <cstring>
+#include <string>
+using namespace std;
 
 int main() {
-	int a = 0, b = 0;
-	int sum = 0;
-	char str[20] = {};
+	int a, b, sum;
 	scanf("%d%d", &a, &b);
 	sum = a + b;
-	if (sum < 0) {
-		sum = -sum;
-		printf("-");
-	}
 
-	int temp1 = sum / 1000000;
-	bool hasTemp1 = false;
-	if (temp1 != 0) {
-		printf("%d,", temp1);
-		hasTemp1 = true;
-	}
+	char str[10] = { 0 };
+	sprintf(str, "%d", sum);
 
-	int temp2 = sum / 1000 - temp1 * 1000;
-	bool hasTemp2 = false;
-	if (hasTemp1) {
-		printf("%03d,", temp2);
-	}
-	else if (temp2 != 0) {
-		printf("%d,", temp2);
-		hasTemp2 = true;
-	}
+	string result;
 
-	int temp3 = sum % 1000;
-	if (hasTemp1 || hasTemp2) {
-		printf("%03d", temp3);
+	int count = 0;
+	for (int i = strlen(str) - 1; i >= 0; i--) {
+		count++;
+		char tmp[2] = { 0 };
+		tmp[0] = str[i];
+		result.insert(0, tmp);
+		if (count == 3) {
+			count = 0;
+			if (i == 0) continue;
+			if (i == 1 && str[0] == '-') continue;
+			tmp[0] = ',';
+			result.insert(0, tmp);
+		}
 	}
-	else {
-		printf("%d", temp3);
-	}
-
-	system("pause");
+	printf("%s", result.c_str());
 	return 0;
 }
