@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Sample5 二路归并.cpp">
+    <ClCompile Include="Sample6 随机快排.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
