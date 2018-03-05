@@ -301,6 +301,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sample6 随机快排", "Sam
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sample7 集合划分", "Sample7 集合划分\Sample7 集合划分.vcxproj", "{C8CECE1A-4245-47BB-A91B-FB8B3DF4AF60}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sample8 分数", "Sample8 分数\Sample8 分数.vcxproj", "{DB2FC8AD-0460-400A-B4E6-8195FA09F5E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1501,6 +1503,14 @@ Global
 		{C8CECE1A-4245-47BB-A91B-FB8B3DF4AF60}.Release|x64.Build.0 = Release|x64
 		{C8CECE1A-4245-47BB-A91B-FB8B3DF4AF60}.Release|x86.ActiveCfg = Release|Win32
 		{C8CECE1A-4245-47BB-A91B-FB8B3DF4AF60}.Release|x86.Build.0 = Release|Win32
+		{DB2FC8AD-0460-400A-B4E6-8195FA09F5E4}.Debug|x64.ActiveCfg = Debug|x64
+		{DB2FC8AD-0460-400A-B4E6-8195FA09F5E4}.Debug|x64.Build.0 = Debug|x64
+		{DB2FC8AD-0460-400A-B4E6-8195FA09F5E4}.Debug|x86.ActiveCfg = Debug|Win32
+		{DB2FC8AD-0460-400A-B4E6-8195FA09F5E4}.Debug|x86.Build.0 = Debug|Win32
+		{DB2FC8AD-0460-400A-B4E6-8195FA09F5E4}.Release|x64.ActiveCfg = Release|x64
+		{DB2FC8AD-0460-400A-B4E6-8195FA09F5E4}.Release|x64.Build.0 = Release|x64
+		{DB2FC8AD-0460-400A-B4E6-8195FA09F5E4}.Release|x86.ActiveCfg = Release|Win32
+		{DB2FC8AD-0460-400A-B4E6-8195FA09F5E4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
