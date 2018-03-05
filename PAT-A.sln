@@ -293,6 +293,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1033. To Fill or Not to Fil
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sample3 Date", "Sample3 Date\Sample3 Date.vcxproj", "{BB6E4270-A41B-4BCE-9394-72A6CB3F197F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sample4 二分法", "Sample4 二分法\Sample4 二分法.vcxproj", "{0863016C-AE88-424E-B05D-792567C5AA7C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1461,6 +1463,14 @@ Global
 		{BB6E4270-A41B-4BCE-9394-72A6CB3F197F}.Release|x64.Build.0 = Release|x64
 		{BB6E4270-A41B-4BCE-9394-72A6CB3F197F}.Release|x86.ActiveCfg = Release|Win32
 		{BB6E4270-A41B-4BCE-9394-72A6CB3F197F}.Release|x86.Build.0 = Release|Win32
+		{0863016C-AE88-424E-B05D-792567C5AA7C}.Debug|x64.ActiveCfg = Debug|x64
+		{0863016C-AE88-424E-B05D-792567C5AA7C}.Debug|x64.Build.0 = Debug|x64
+		{0863016C-AE88-424E-B05D-792567C5AA7C}.Debug|x86.ActiveCfg = Debug|Win32
+		{0863016C-AE88-424E-B05D-792567C5AA7C}.Debug|x86.Build.0 = Debug|Win32
+		{0863016C-AE88-424E-B05D-792567C5AA7C}.Release|x64.ActiveCfg = Release|x64
+		{0863016C-AE88-424E-B05D-792567C5AA7C}.Release|x64.Build.0 = Release|x64
+		{0863016C-AE88-424E-B05D-792567C5AA7C}.Release|x86.ActiveCfg = Release|Win32
+		{0863016C-AE88-424E-B05D-792567C5AA7C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
